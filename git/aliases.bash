@@ -1,0 +1,1 @@
+alias github-clone='cd $PROJECTS/github && git clone $1'

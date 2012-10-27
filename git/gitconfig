@@ -1,0 +1,21 @@
+[user]
+        name = lostinpatterns
+        email = blweiner@gmail.com
+[credential]
+        helper = osxkeychain
+[color]
+        diff = auto
+        status = auto
+        branch = auto
+        ui = true
+[core]
+        excludesfile = ~/.gitignore
+        editor = subl
+[apply]
+        whitespace = nowarn
+[help]
+        autocorrect = 1
+[mergetool]
+        keepBackup = false
+[difftool]
+        prompt = false
