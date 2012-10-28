@@ -1,0 +1,14 @@
+{
+  "sublimelinter_delay": 0.5,
+  "jshint_options":
+  { 
+    "evil"    : true, 
+    "undef"   : false, 
+    "browser" : true, 
+    "wsh"     : true, 
+    "eqnull"  : true, 
+    "expr"    : true, 
+    "curly"   : true, 
+    "trailing": true 
+  }
+}

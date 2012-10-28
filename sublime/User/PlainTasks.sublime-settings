@@ -1,0 +1,9 @@
+{
+  "open_tasks_bullet": "-",
+  "done_tag": false,
+  "font_size": 12,
+  "font_face": "Menlo",
+  "margin": 10,
+  "font_options": [],
+  "color_scheme": "Packages/PlainTasks/tasks.hidden-tmTheme"
+}

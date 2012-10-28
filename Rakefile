@@ -20,7 +20,7 @@ private
 
 def install_homebrew
   # `ruby -e "$(curl -fsSkL raw.github.com/mxcl/homebrew/go)"`
-  # `brew install coreutils git tree` # bash
+  # `brew install coreutils git tree ack` # bash
   # TODO: do this automatically
   # echo "Don't forget to add $(brew --prefix coreutils)/libexec/gnubin to \$PATH."
 end
