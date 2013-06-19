@@ -1,7 +1,7 @@
 export DOTFILES=$HOME/.dotfiles
 
 # your project folder that we can `c [tab]` to
-export PROJECTS=~/www
+export PROJECTS=~/code
 
 # source every .bash file
 for file in $HOME/.dotfiles/**/*.bash; do
@@ -13,3 +13,6 @@ unset file
 # if [ -f ~/.localrc ]; then
 #   source ~/.localrc
 # fi
+
+# increase number of open files to 512
+ulimit -n 512
