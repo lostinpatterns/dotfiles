@@ -1,1 +1,1 @@
-alias mysql-cli='/usr/local/mysql/bin/mysql -u root $1'
+alias mysql-cli='mysql -u root $1'
