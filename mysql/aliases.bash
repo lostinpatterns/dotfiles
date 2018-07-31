@@ -1,1 +1,0 @@
-alias mysql-cli='mysql -u root $1'
