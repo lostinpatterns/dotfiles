@@ -49,7 +49,6 @@ TODO
 
 # History files
 /.ash_history
-/.bash_history
 /.fluxbox/fbrun_history
 /.gnuplot_history
 /.history

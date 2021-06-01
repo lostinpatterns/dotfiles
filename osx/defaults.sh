@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # original source: http://mths.be/osx
 
 # Ask for the administrator password upfront

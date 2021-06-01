@@ -1,6 +1,6 @@
 [user]
-        name = lostinpatterns
-        email = blweiner@gmail.com
+	name = lostinpatterns
+	email = blweiner@gmail.com
 [credential]
         helper = osxkeychain
 [color]
